@@ -1,7 +1,7 @@
 # Wine Quality Dataset
 
 ## Dataset Overview
-This dataset comprises information on red and white variants of Portuguese "Vinho Verde" wine. It includes physicochemical (inputs) and sensory (output) variables, omitting details like grape types and brand due to privacy concerns. The dataset is suitable for classification or regression tasks, with unbalanced classes. Refer to [Cortez et al., 2009] for more details.
+This dataset comprises information on red and white variants of Cinsault Wine. It includes physicochemical (inputs) and sensory (output) variables, omitting details like grape types and brand due to privacy concerns. The dataset is suitable for classification or regression tasks, with unbalanced classes. Refer to [Cortez et al., 2009] for more details.
 
 ## Contents
 - **Input Variables** (based on physicochemical tests):
